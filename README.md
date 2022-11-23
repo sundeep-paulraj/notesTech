@@ -1,11 +1,12 @@
 # notesTech
+
 repo for maintaining learning the tech
 
-# Technology
+## Technology
 
 ## Linux
 
 ## Docker
 
 ## Kubernetes
- 
+
